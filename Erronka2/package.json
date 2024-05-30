@@ -1,0 +1,46 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@tailwindcss/forms": "^0.5.2",
+        "alpinejs": "^3.4.2",
+        "autoprefixer": "^10.4.16",
+        "axios": "^1.6.5",
+        "laravel-vite-plugin": "^0.8.0",
+        "postcss": "^8.4.32",
+        "tailwindcss": "^3.3.6",
+        "tailwindcss-font-inter": "^3.0.1",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@chenfengyuan/vue-countdown": "^2.1.2",
+        "@fontsource/inter": "^5.0.16",
+        "@next/font": "^14.0.4",
+        "@tailwindcss/typography": "^0.5.10",
+        "@vitejs/plugin-vue": "^4.5.2",
+        "bottleneck": "^2.19.5",
+        "draggable-vue-directive": "^2.1.0",
+        "fluid-canvas": "github:malik-tillman/fluid-js",
+        "i": "^0.3.7",
+        "lodash": "^4.17.21",
+        "pinia": "^2.1.7",
+        "sweetalert2": "^11.10.4",
+        "tailwind-typewriter": "^1.0.1",
+        "typeface-inter": "^3.18.1",
+        "vite-plugin-windicss": "^1.9.2",
+        "vue": "^3.4.7",
+        "vue-draggable-resizable": "^3.0.0",
+        "vue-router": "^4.2.5",
+        "vue-shell": "^1.0.3",
+        "vue-tour": "^2.0.0",
+        "vue3-draggable-resizable": "^1.6.5",
+        "vue3-tour": "^0.3.4",
+        "vuedraggable": "^4.1.0",
+        "ziggy": "^2.4.0",
+        "ziggy-js": "^1.8.1"
+    }
+}
