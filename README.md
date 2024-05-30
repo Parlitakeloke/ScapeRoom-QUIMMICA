@@ -1,6 +1,6 @@
 # Ongi etorri CIFP Txurdinaga ikastetxeko _QUIMMICA_ laborategira!
 
-## :open_book: Isotorioa
+## :open_book: Istorioa
 
 _QUIMMICA_ laborategian, ikastetxeko ikasle batzuk egun normal batean esperientzia erregulari ekin diote. Hala ere, zerbait txarto egiten da. Kalkulu errorea sortu da, eta laborategia suntsitu egin da. Denborak lasterka pasa behar du, eta orain ikasle taldeak erronka eta probak gainditu behar ditu ihes egiteko.
 
